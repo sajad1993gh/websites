@@ -1,0 +1,24 @@
+body{
+  font-family: arial, sans-serif;
+  text-align: center;
+  margin: 1 auto;
+  background-color: #F23C50
+}
+
+
+h1 {
+  color: yellow;
+}
+
+img {
+  width: 65%;
+}
+
+h2 {
+  color: yellow;
+  border-radius: 20px;
+  margin: 190;
+  border: 1px solid black;
+  margin: 50px;
+  padding: 20px;
+}
